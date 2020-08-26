@@ -156,3 +156,4 @@ try {
   3) pip install requests
   4) pip install json
   5) Полученые Login сохраняете в Login.txt который должнен находиться в папке со скриптом. 
+  6) Ввод логина и пароля от Inst.
